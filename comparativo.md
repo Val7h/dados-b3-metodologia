@@ -1,6 +1,7 @@
 # APIs de dados fundamentalistas da B3 — comparativo honesto
 
-*Verificado em 10/08/2026, com fontes públicas. Este comparativo é mantido
+*Verificado em 10/08/2026, com fontes públicas; a coluna do Dados B3 foi atualizada em
+06/11/2026. Versão viva: https://dadosb3.com/comparativo. Este comparativo é mantido
 pelo próprio Dados B3 — leia com esse desconto e confira os links.*
 
 Quem precisa de dados de empresas da bolsa brasileira via API tem hoje
@@ -14,8 +15,8 @@ do que você valoriza.
 | Metodologia pública | **Sim — cada fórmula, conta a conta** | Não | Parcial (blog) | Não | Dentro do sistema, para assinantes |
 | Testes de qualidade publicados | **Sim — bateria de invariantes; se reprova, não publica** | Não | Auto-benchmark em blog | Não | Não |
 | Múltiplos ponto-no-tempo (sem look-ahead) | **Sim — preço do 1º pregão após a publicação real** | Não | Não | Base própria p/ backtest (enterprise) | Não anunciado |
-| Histórico de reapresentações | **Sim — 5.209 registradas** | Não | Não | Não | Não |
-| Degustação sem cadastro | WEGE3 completa | 4 tickers | Playground | Chave de teste limitada | Não |
+| Histórico de reapresentações | **Sim — 8.670 registradas** | Não | Não | Não | Não |
+| Degustação sem cadastro | Qualquer ticker, um por vez (60/h, 150/dia); WEGE3 completa | 4 tickers | Playground | Chave de teste limitada | Não |
 | Conector de IA (MCP) | Sim | Sim | Não | Não | Sim |
 
 ## Onde cada um é melhor que nós — honestamente
@@ -51,6 +52,6 @@ do que você valoriza.
 Preços e características verificados em 10/08/2026: [brapi
 pricing](https://brapi.dev/pricing) · [bolsai](https://usebolsai.com/) ·
 [Fintz](https://fintz.com.br/) · [Economatica](https://www.economatica.com/)
-· nossos: [preço](/#preco), [metodologia](/metodologia),
-[degustação](/empresas/WEGE3/indicadores). Encontrou algo desatualizado?
-Fale conosco pelo [portal](/portal).
+· nossos: [preço](https://dadosb3.com/assinar), [metodologia](https://dadosb3.com/metodologia),
+[degustação](https://dadosb3.com/empresas/WEGE3/indicadores). Encontrou algo desatualizado?
+Fale conosco pelo [portal](https://dadosb3.com/portal).
